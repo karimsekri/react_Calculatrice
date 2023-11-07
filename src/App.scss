@@ -1,0 +1,23 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.chiffre {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center; 
+  flex-wrap: wrap; 
+  color: white;
+  width: 200px;
+  height: 200px;
+  
+}
+
+.buttonSigne{
+  border:solid 1px black;
+}
+
